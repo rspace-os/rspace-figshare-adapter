@@ -1,0 +1,52 @@
+[
+	{
+		"is_selectable": true,
+		"has_children": false,
+		"id": 13360,
+		"title": "Science",
+		"parent_id": 0,
+		"path": "",
+		"source_id": "",
+		"taxonomy_id": 85
+	},
+	{
+		"is_selectable": true,
+		"has_children": false,
+		"id": 123,
+		"title": "Computing",
+		"parent_id": 0,
+		"path": "",
+		"source_id": "",
+		"taxonomy_id": 85
+	},
+	{
+		"is_selectable": false,
+		"has_children": false,
+		"id": 13362,
+		"title": "Defence",
+		"parent_id": 0,
+		"path": "",
+		"source_id": "",
+		"taxonomy_id": 85
+	},
+	{
+		"is_selectable": true,
+		"has_children": false,
+		"id": 13363,
+		"title": "Architecture",
+		"parent_id": 13362,
+		"path": "",
+		"source_id": "",
+		"taxonomy_id": 85
+	},
+	{
+		"is_selectable": true,
+		"has_children": false,
+		"id": 321,
+		"title": "Agriculture",
+		"parent_id": 0,
+		"path": "",
+		"source_id": "",
+		"taxonomy_id": 85
+	}
+]
