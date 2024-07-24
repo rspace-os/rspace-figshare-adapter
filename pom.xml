@@ -4,8 +4,9 @@
 
   <modelVersion>4.0.0</modelVersion>
   <artifactId>rspace-figshare-adapter</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>Connector between RSpace and Figshare, based on rspace-figshare-client-java lib</description>
+
   <parent>
     <artifactId>rspace-parent</artifactId>
     <groupId>com.github.rspace-os</groupId>
@@ -23,10 +24,6 @@
     <plugins>
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
-      </plugin>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-toolchains-plugin</artifactId>
       </plugin>
     </plugins>
   </build>
@@ -61,8 +58,8 @@
 
     <dependency>
       <groupId>com.github.rspace-os</groupId>
-      <artifactId>repository-spi</artifactId>
-      <version>0.9.0</version>
+      <artifactId>rspace-repository-spi</artifactId>
+      <version>1.0.1</version>
     </dependency>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
@@ -72,7 +69,7 @@
     <dependency>
       <groupId>com.github.rspace-os</groupId>
       <artifactId>rspace-core-util</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.1</version>
     </dependency>
 
     <dependency>
