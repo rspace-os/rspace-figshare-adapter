@@ -4,7 +4,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <artifactId>rspace-figshare-adapter</artifactId>
-  <version>1.1.1</version>
+  <version>1.1.2</version>
   <description>Connector between RSpace and Figshare, based on rspace-figshare-client-java lib</description>
 
   <parent>
@@ -59,12 +59,12 @@
     <dependency>
       <groupId>com.github.rspace-os</groupId>
       <artifactId>rspace-repository-spi</artifactId>
-      <version>1.1.1</version>
+      <version>1.1.2</version>
     </dependency>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
       <artifactId>figshare-client-java</artifactId>
-      <version>0.7.0</version>
+      <version>0.7.1</version>
     </dependency>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
