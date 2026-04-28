@@ -64,7 +64,7 @@
     <dependency>
       <groupId>com.github.rspace-os</groupId>
       <artifactId>figshare-client-java</artifactId>
-      <version>582a7a3fad</version>
+      <version>0.7.1</version>
     </dependency>
     <dependency>
       <groupId>com.github.rspace-os</groupId>
