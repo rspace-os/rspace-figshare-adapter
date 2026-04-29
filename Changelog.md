@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.2
+- bump figshare-client-java 0.7.0 -> 0.7.1 (fixes IOException: stream is closed on deposit)
+
 ## 1.1.0
 - bump figshare-client-java 0.6.0 -> 0.7.0 (updates figshare.model.Account to match latest API)
 
